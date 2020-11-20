@@ -1,0 +1,19 @@
+{
+"SHOW LPM SETTINGS" = "低電力モードの設定";
+
+"Enable Show LPM settings" = "バッテリー>低電力モード を有効にする";
+"Enable" = "低電力モードをオン";
+
+"This allows to enable that setting on devices that do not have low power mode enabled. However, CPU / GPU performance may not change due to reasons such as lack of data on the device." = "低電力モードがないデバイスでも有効にできます。 ただし、デバイスに実装されていない等の理由でCPU/GPUの性能に変化がない場合があります。";
+
+"DOCK BACKGROUND ALPHA" = "ドックのアルファ値を変更";
+
+"Enable Change Dock Alpha" = "アルファ値の変更を有効にする";
+
+"it can be change the alpha of the Dock" = "ドックのアルファ値(透明度)を変更することができます";
+
+"SWITCHER FOR IPAD" = "iPad用Appスイッチャー";
+"Enable iPad Switcher" = "iPadのAppスイッチャーを有効にする";
+
+"Use iPad Switcher" = "iPadOSのようなAppスイッチャーを使う";
+}
